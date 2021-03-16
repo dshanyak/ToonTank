@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0abb845a-7f24-41ae-94bd-2660e3bb9d72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ToonTanks.Target.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actors/ProjectileBase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Actors/ProjectileBase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Components/HealthComponent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Components/HealthComponent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameModes/ToonTanksGameModebase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameModes/ToonTanksGameModebase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PawnBase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PawnBase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PawnTank.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PawnTank.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PawnTankTwoGuns.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PawnTankTwoGuns.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PawnTurret.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PawnTurret.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayerControllers/PlayerControllerBase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PlayerControllers/PlayerControllerBase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToonTanks.Build.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToonTanks.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToonTanks.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ToonTanksEditor.Target.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Content/Blueprints/Actors/BP_ProjectileBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Content/Blueprints/Actors/BP_ProjectileBase.uasset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1kzHEIjKjmgBU1f5dUlgGiooIkb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0abb845a-7f24-41ae-94bd-2660e3bb9d72" name="Default Changelist" comment="" />
+      <created>1606696386507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606696386507</updated>
+      <workItem from="1606696393799" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
